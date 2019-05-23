@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   
-/* or exactly whats going on in here either... */
+/* or exactly whats going on in here either.. */
 .clearfix::after {
     content: " ";
     display: block;
