@@ -60,12 +60,13 @@
   }
 
   .box1 {
-    /* margin: 0; */
+    text-align: center;
+    padding: 10px;
     color: #333;
-    position: relative;
-    top: -80px;
-    left: 100px;
-    width: 400px;
+    position: absolute;
+    top: 400px;
+    left: 220px;
+    width: 420px;
     height: 80px;
     background: #eee;
     border: 1px solid black;
@@ -74,12 +75,13 @@
 
 
   .box2 {
-    /* margin: 0; */
+    text-align: center;
+    padding: 10px;
     color: #333;
-    position: relative;
-    top: -70px;
-    left: 100px;
-    width: 400px;
+    position: absolute;
+    top: 490px;
+    left: 220px;
+    width: 420px;
     height: 80px;
     background: #eee;
     border: 1px solid black;
